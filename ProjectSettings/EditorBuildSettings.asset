@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Welcome_Screen.unity
     guid: 00bdaadb26b9847e88b3659c1a7c134e
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: e73601e948b6342628afeb529acfe2f0
+  - enabled: 1
+    path: Assets/Scenes/Log_In_Screen.unity
+    guid: 77981cb3c33d6144a92f21d07225641e
+  - enabled: 1
+    path: Assets/Scenes/Welcome_Back_Screen.unity
+    guid: bae42b900d4580c45aec43ab3cf757ef
+  - enabled: 1
+    path: Assets/Scenes/TimeTableScreen.unity
+    guid: 6bef9643e49fb44e9b57e7317bc01763
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
