@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TimeTableScreen.unity
     guid: 6bef9643e49fb44e9b57e7317bc01763
+  - enabled: 1
+    path: Assets/Scenes/firstfloormap.unity
+    guid: f2641d9b00aa5944896cbf5b25cd0319
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
